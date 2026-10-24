@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Output produced by the 's' key in the app
+calibration_lab_output.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
