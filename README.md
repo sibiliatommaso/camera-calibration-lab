@@ -1,4 +1,4 @@
-# Interactive Camera Calibration Lab
+# Camera Geometry Playground
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
