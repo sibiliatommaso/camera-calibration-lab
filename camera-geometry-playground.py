@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Interactive Camera Calibration Lab
+Interactive Camera Geometrry Playground
 ==================================
 
 The input image is treated as a planar object lying in 3D space at Z = Z_PLANE.
